@@ -1,2 +1,2 @@
 const data=2323
-const data1=11111
+const data1=111
